@@ -1,0 +1,36 @@
+input {
+	width: 18rem;
+}
+
+.form-restyle {
+	margin: 0 auto;
+	width: 50%;
+	display: flex;
+}
+
+button {
+	width: 7rem;
+	margin-left: 10px;
+}
+
+p {
+	display: flex;
+}
+.banner {
+	background-image:url(img/ban4.png);
+	background-repeat: no-repeat;
+	background-size: 120%;
+
+}
+
+.footer-back {
+	background-color: grey;
+}
+
+.social_net {
+	justify-content: justify;
+	margin-left: 45%;
+}
+.quick-links {
+	margin-left: 5%;
+}
