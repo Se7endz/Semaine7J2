@@ -1,5 +1,5 @@
 Voici le projet de THP SEMAINE 7 JOUR 1.
-
+    "EVENT Brite Mytho/Fake"
 Vous trouverez sur ce repo : 
   - Un index
   - Un fichier navbar.html qui represente le detail de ma navbar bootstrap.
