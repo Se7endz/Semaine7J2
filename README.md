@@ -8,7 +8,7 @@ Vous trouverez sur ce repo :
   - Un fichier card.html ou vous aurez tous le details des cards bootstrap affichant les events.
   - Un fichier footer.html ou vous aurez le footer creer pour l'event brite fake.
   - Un fichier style.css, contenant du css complementaire.
-  
+  - Un fichier Index.html qui regroupes (presque) tous les atomes, molécules et organismes de mon kit ui
   J'ai choisi Lux comme KIT UT principal, choisis sur bootswatch : https://bootswatch.com/lux/
   
   GL & HF
